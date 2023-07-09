@@ -10,5 +10,4 @@ user_name = input("Enter GitHub username: ")
 
 #IN DEVELOPMENT PHASE
 
-# Execute the command using the OS module
-os.system(url)
+#This project will be live on 30/08/2023
